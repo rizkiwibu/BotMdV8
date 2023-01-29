@@ -9,22 +9,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 
-global.ownerlen = "RUBAH AJA MAKE NAMAMU"
-global.owner = ['628nomormu'] 
-global.ownername = "maslentRubahAjaNamamu"
-global.ytname = "YT: lenttobs"
-global.socialm = "IG: vlntncptr"
+global.ownerlen = "rizki"
+global.owner = ['6285878836361'] 
+global.ownername = "rizki"
+global.ytname = "YT: RIZKIIRFAN"
+global.socialm = "IG: ikykunnnn"
 global.location = "Indonesia, Jawatimur, Lumajang"
-global.ownernomer = "62xxxxNomormu"
-global.premium = ['628xxnomormu']
-global.botname = 'mzlntNamamu' 
-global.linkz = "https://chat.LINK BOKEP/LINKGC WA"
-global.websitex = "yt mu"
-global.botscript = '-'
+global.ownernomer = "6285878836361"
+global.premium = ['6285878836361']
+global.botname = 'ikybot' 
+global.linkz = "https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m"
+global.websitex = "https://youtube.com/@RIZKIIRFAN"
+global.botscript = 'https://github.com/rizkiwibu/BotMdV8'
 global.themeemoji = "😿"
-global.packname = "Sticker By"
-global.author = "Made by"
-global.wm = "Lenttobs"
+global.packname = "Sticker By 6285878836361"
+global.author = "Made by ikybot"
+global.wm = "ikybot"
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -57,7 +57,7 @@ global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 }
 global.limitAwal = {
  prem: 'Unlimited',
- free: 70
+ free: 8
 }
 
 
