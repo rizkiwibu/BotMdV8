@@ -1,0 +1,34 @@
+{
+  "users": {
+    "6285655620413@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 8
+    }
+  },
+  "chats": {
+    "6285655620413@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "math": []
+  },
+  "settings": {
+    "6285791762177@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
